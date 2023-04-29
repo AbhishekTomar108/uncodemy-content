@@ -1,0 +1,81 @@
+Web Development with HTML5, CSS3 and JavaScript
+Learning Objectives:
+
+Learn the most fundamental languages that define the world wide web.
+Learn to build beautiful websites and user interfaces that work on a variety of devices and platforms.
+Build expressive websites, landing pages, and more.
+Go from basics to functional and object-oriented JavaScript.
+Bring your web pages to life by adding interactivity and data-driven dynamism.
+Learn to interact with remote services and APIs.
+Learn to build modular JavaScript applications.
+Earn to set up your development environment effectively.
+Learn and implement auto code formatting and linting.
+Embrace Babel and write next-gen JavaScript today.
+Learn all about module bundlers with Parcel and Webpack.
+
+
+Frontend Development Using React
+Learning Objectives:
+
+Master the most popular JavaScript library for building UIs and Web apps.
+Learn to build composable and reusable components.
+Embrace the power of React Hooks and learn to build your hooks.
+Implement routing in a single-page application with React Router.
+Master global state management and transitions using Redux.
+Build data-driven applications with ease.
+Implement Test-Driven Development (TDD) using Jest, Enzyme, and React Testing Library.
+Master the framework of choice for Facebook, Instagram, New York Times, Netflix, Airbnb, Microsoft, and more.
+
+
+Data Structures Using JavaScript
+Learning Objectives:
+
+Master the intricacies of Arrays, Objects, Stacks, Queues, Linked Lists, Hash Tables, Graphs, Trees, and more data structures.
+
+
+
+Backend Development with Node.js, Express, and MongoDB
+Learning Objectives:
+
+Learn to write server-side applications using JavaScript.
+Learn to work with files, modules, and NPM.
+Learn to build web servers, APIs, and more.
+Master the Express framework for rapidly building web apps with Node.js.
+Get a grip on Middleware, Authentication, and the MVC architecture.
+Build data-driven applications using MongoDB Atlas as the database.
+Learn to secure your web apps and APIs and deploy them on the Cloud.
+Learn all about the most popular NoSQL database in the world.
+Learn to effectively implement Create-Read-Update-Delete queries.
+Learn about schema design and data modeling.
+Learn about critical operations like sorting, aggregation, and lots more.
+Master the platform that is used by LinkedIn, Netflix, PayPal, NASA, Medium, Walmart, and more.
+Embrace the database of choice for Uber, Lyft, Accenture, and more.
+
+
+
+APIs and Testing
+Learning Objectives:
+
+Learn all about REST and build RESTful APIs.
+Discover the OpenAPI 3.0 specification.
+Work with Swagger to document your APIs.
+Learn to test your code so it doesn't fail in production.
+Learn to write unit tests using Jest.
+Build end-to-end (E2E) tests using Puppeteer.
+Level up your E2E experience with Cypress.io.
+
+
+Deployment
+Learning Objectives:
+Go hands-on with deployment on major cloud platforms such as AWS, Cpanel, Netlify, and Heroku.
+
+
+Level Up Your Skills – Mastering Algorithms and Process Management
+Learning Objectives:
+
+Learn all about time complexity.
+Learn to implement algorithms such as sorting, search, divide and conquer, dynamic programming, greedy algorithms and many more.
+Discover the Agile way of building software.
+Learn about project lifecycle management with Agile.
+Embrace the SCRUM framework like Jira, rello.
+Get ready to face job interviews.
